@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.579 s <<< FAILURE! - in TestSuite
+Superstore.Walmart.FurnitureTest.Sofa  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.AssertionError: expected [b] but found [a]
+	at Superstore.Walmart.FurnitureTest.Sofa(FurnitureTest.java:15)
+
