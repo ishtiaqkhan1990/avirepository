@@ -30,5 +30,10 @@ public void cornertable()
 {
 	System.out.println("cornertable");
 }
+@Test(groups= {"couch"})
+public void couch()
+{
+	System.out.println("couch");
+}
 
 }
