@@ -25,6 +25,10 @@ public void Bed()
 	System.out.println("Bed");
 }
 
-
+@Test(groups= {"cornertable"})
+public void cornertable()
+{
+	System.out.println("cornertable");
+}
 
 }
